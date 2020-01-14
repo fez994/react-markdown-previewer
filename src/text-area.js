@@ -5,7 +5,7 @@ const TextArea = () => {
   const [userInput, setUserInput] = useState(`
   # Hello
   ## Welcome to my markdown project!
-  *Check my projects on GitHub!* [GitHub](https://github.com/fez994)
+  *Check my projects on * [GitHub](https://github.com/fez994)
   ## I used react-markdown for this project!
   \`\`\`
   // this is multi-line code:
